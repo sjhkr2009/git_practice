@@ -1,3 +1,4 @@
 contents
 
 new contents
+function1
