@@ -1,4 +1,4 @@
 contents
 
 new contents
-function1
+function3
